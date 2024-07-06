@@ -1,0 +1,107 @@
+.mac-book-pro161-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.mac-book-pro161-mac-book-pro161 {
+  gap: 10px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(12, 12, 12, 1);
+}
+.mac-book-pro161-header {
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.mac-book-pro161-hero {
+  gap: 13px;
+  height: 1001px;
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  padding-top: 60px 50px 260px;
+  padding-left: 60px 50px 260px;
+  padding-right: 60px 50px 260px;
+  flex-direction: column;
+  padding-bottom: auto;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/c-background-1100h.png");
+  background-position: center;
+}
+.mac-book-pro161-frame6 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+.mac-book-pro161-subtract {
+  width: 26px;
+  height: 26px;
+}
+.mac-book-pro161-left {
+  gap: 10px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.mac-book-pro161-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 22px;
+  font-style: medium;
+  text-align: left;
+  font-family: Jeryko;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-pro161-text1 {
+  color: rgba(255, 255, 255, 1);
+}
+.mac-book-pro161-text3 {
+  color: rgb(255, 255, 255);
+  width: 538px;
+  height: auto;
+  font-size: 45px;
+  font-style: UltraLight;
+  text-align: center;
+  font-family: Gilroy;
+  font-weight: 100;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-pro161-text4 {
+  color: rgb(177, 177, 177);
+  width: 398px;
+  height: auto;
+  font-size: 10px;
+  font-style: UltraLight;
+  text-align: center;
+  font-family: Gilroy;
+  font-weight: 100;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+@media(max-width: 479px) {
+  .mac-book-pro161-text3 {
+    font-size: 35px;
+  }
+}
